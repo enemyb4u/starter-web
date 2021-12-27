@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 This line is created for difference
 
 another created difference
+
+## Comparision
+
+This line is added for comparision and compared
